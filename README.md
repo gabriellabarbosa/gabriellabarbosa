@@ -12,10 +12,15 @@
 
 :books: Sou estudante de análise e desenvolvimento de sistemas.
 
-:outbox_tray: Metas para 2022: Criar um projeto e começar a trabalhar em uma nova empresa.
+:outbox_tray: Metas para 2022: Criar um projeto foda.
 
- 
- <br>
+<br>
+
+### Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+<br>
  
 <div>
 <a href="https://instagram.com/_gabsbarbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -38,4 +43,4 @@
  
  ## Obrigada pela visita, até mais!
  
- <div class="tenor-gif-embed" data-postid="12999722" data-share-method="host" data-aspect-ratio="0.615625" data-width="100%"><a href="https://tenor.com/view/bye-slide-baby-later-peace-out-gif-12999722">Bye Slide GIF</a>from <a href="https://tenor.com/search/bye-gifs">Bye GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="12999722" data-share-method="host" data-aspect-ratio="0.615625" data-width="100%"><a href="https://tenor.com/view/bye-slide-baby-later-peace-out-gif-12999722">Bye Slide GIF</a>from <a href="https://tenor.com/search/bye-gifs">Bye GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
