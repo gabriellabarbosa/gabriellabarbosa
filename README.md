@@ -15,9 +15,7 @@
 :outbox_tray: Metas para 2022: Criar um projeto e começar a trabalhar em uma nova empresa.
 
  
- 
- 
- 
+ <br>
  
 <div>
 <a href="https://instagram.com/_gabsbarbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -25,10 +23,12 @@
 <a href="https://www.linkedin.com/in/gabriellabomconselho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<br>
+<br>
+
 <div>
 <a href="https://github.com/gabriellabarbosa">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellabarbosa&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellabarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div
- 
-[Snake animation](https://github.com/gabriellabarbosa/gabriellabarbosa/blob/output/github-contribution-grid-snake.svg)
+
