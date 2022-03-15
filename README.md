@@ -29,7 +29,13 @@
 <div>
 <a href="https://github.com/gabriellabarbosa">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellabarbosa&layout=compact&langs_count=7&theme=dracula"/>
+ 
 <br>
+<br>
+ 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellabarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div
-
+ </div>
+ 
+ ## Obrigada pela visita, até mais!
+ 
+ <div class="tenor-gif-embed" data-postid="12999722" data-share-method="host" data-aspect-ratio="0.615625" data-width="100%"><a href="https://tenor.com/view/bye-slide-baby-later-peace-out-gif-12999722">Bye Slide GIF</a>from <a href="https://tenor.com/search/bye-gifs">Bye GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
