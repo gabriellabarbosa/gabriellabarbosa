@@ -18,7 +18,7 @@
 
 ## Sobre mim
 
-[![Linkedin Badge(https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/gabriellabomconselho/)]
+https://www.linkedin.com/in/gabriellabomconselho/
 
 - Obrigada pela visita.
 
