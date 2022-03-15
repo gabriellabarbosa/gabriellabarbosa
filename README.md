@@ -1,16 +1,25 @@
-### Hi there 👋
+# Olá, seja bem vindo!
 
-<!--
-**gabriellabarbosa/gabriellabarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+## Meu nome é Gabriella.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+:computer: Atualmente sou estágiaria de desenvolvimento!
+
+:house_with_garden: Sou nascida e criada em Belo Horizonte, Minas Gerais.
+
+:books: Sou estudante de análise e desenvolvimento de sistemas.
+
+:outbox_tray: Metas para 2022: Criar um projeto e começar a trabalhar em uma nova empresa.
+
+ 
+
+## Sobre mim
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/gabriellabomconselho/)]( https://www.linkedin.com/in/gabriellabomconselho/)
+
+- Obrigada pela visita.
+
+- Volte sempre! o/
