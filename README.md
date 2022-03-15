@@ -24,7 +24,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/>
 </div>
 
 <br>
@@ -43,11 +43,12 @@
 <div>
 <a href="https://github.com/gabriellabarbosa">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellabarbosa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
 <br>
-<br>
  
+<div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellabarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- </div>
+</div>
  
 ## Obrigada pela visita, até mais!
