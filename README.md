@@ -48,6 +48,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellabarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  </div>
  
- ## Obrigada pela visita, até mais!
- 
-<div class="tenor-gif-embed" data-postid="17513607" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/cute-adorable-one-piece-luffy-wave-gif-17513607">Cute Adorable GIF</a>from <a href="https://tenor.com/search/cute-gifs">Cute GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+## Obrigada pela visita, até mais!
