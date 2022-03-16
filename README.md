@@ -6,13 +6,13 @@
 
  
 
-:computer: Atualmente sou estágiaria de desenvolvimento!
+:computer: Atualmente sou estágiaria de desenvolvimento.
 
 :house_with_garden: Sou nascida e criada em Belo Horizonte, Minas Gerais.
 
 :books: Sou estudante de análise e desenvolvimento de sistemas.
 
-:outbox_tray: Metas para 2022: Criar um projeto foda.
+:outbox_tray: Metas para 2022: Criar um projeto foda, que me faça entrar numa empresa conceituada.
 
 <br>
 
