@@ -2,7 +2,7 @@
 
  
 
-## Meu nome é Gabriella.
+## Um pouco sobre mim:
 
  
 
@@ -12,7 +12,7 @@
 
 :books: Sou estudante de análise e desenvolvimento de sistemas.
 
-:outbox_tray: Metas para 2022: Criar um projeto foda, que me faça entrar numa empresa conceituada.
+:hearts: Sou apaixonada por animais, viagens, animes e vitamina de fruta
 
 <br>
 
