@@ -12,7 +12,7 @@
 
 :books: Sou estudante de análise e desenvolvimento de sistemas.
 
-:hearts: Sou apaixonada por viagens, animais, plantas, animes e vitamina de fruta. :stuck_out_tongue_closed_eyes:
+:hearts: Sou apaixonada por viagens, animais, plantas, animes e vitamina de fruta.
 
 <br>
 
