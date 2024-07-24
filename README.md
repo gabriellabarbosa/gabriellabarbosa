@@ -6,11 +6,11 @@
 
  
 
-:computer: Atualmente sou estágiaria de desenvolvimento.
+:computer: Atualmente sou desenvolvedora de softwares júnior.
 
 :house_with_garden: Sou nascida e criada em Belo Horizonte, Minas Gerais.
 
-:books: Sou estudante de análise e desenvolvimento de sistemas.
+:books: Sou formada em análise e desenvolvimento de sistemas.
 
 :hearts: Sou apaixonada por viagens, animais, plantas, animes e vitamina de fruta.
 
