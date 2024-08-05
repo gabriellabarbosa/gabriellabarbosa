@@ -12,7 +12,7 @@
 
 :books: Sou formada em análise e desenvolvimento de sistemas.
 
-:hearts: Sou apaixonada por viagens, animais, plantas, animes e vitamina de fruta.
+:hearts: Sou apaixonada por viagens, dança, animais, plantas, animes e vitamina de fruta.
 
 <br>
 
