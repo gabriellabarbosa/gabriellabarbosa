@@ -6,7 +6,7 @@
 
  
 
-:computer: Atualmente sou desenvolvedora de softwares júnior.
+:computer: Atualmente sou desenvolvedora de software.
 
 :house_with_garden: Sou nascida e criada em Belo Horizonte, Minas Gerais.
 
